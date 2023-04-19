@@ -1,5 +1,6 @@
 # IronBattle - Homework 1
 
+---
 _This is a battle simulator of two characters that fight each other till death_ 🩸
 
 _The fighters can be either a **Warrior** 🤺 or a **Wizard** 🧙_
