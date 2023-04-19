@@ -1,11 +1,12 @@
 package com.ironhack.w2.d1;
 
+import com.ironhack.w2.d1.d1.Author;
+import com.ironhack.w2.d1.d1.Book;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

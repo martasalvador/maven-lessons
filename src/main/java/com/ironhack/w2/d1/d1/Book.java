@@ -1,4 +1,4 @@
-package com.ironhack.w2.d1;
+package com.ironhack.w2.d1.d1;
 
 public class Book {
     private String title;
