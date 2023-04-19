@@ -7,7 +7,6 @@ _The fighters can be either a **Warrior** 🤺 or a **Wizard** 🧙_
 
 ## Getting Started 🚀
 
----
 _You have 3 game options:_
 * **Create your own battle** 
 * **Import a CSV File**
